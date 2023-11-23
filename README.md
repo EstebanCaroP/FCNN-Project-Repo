@@ -8,4 +8,5 @@ El objetivo principal de este proyecto es crear una arquitectura de red neuronal
 ## Estructura del Repositorio
 - fcnn1/: Contiene el código fuente de la red neuronal y utilidades relacionadas.
 - fcnn2/: Contiene el código para exportación de la red neuronal y predicción del conjunto de datos de testeo <diabetes2>
-- data/: Almacenamiento de conjuntos de datos de entrenamiento y prueba.
+- diabetes/: Almacenamiento de conjuntos de datos de entrenamiento
+- diabetes2/: Conjunto de datos de evaluación 
